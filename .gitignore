@@ -1,0 +1,17 @@
+
+# Ignore Eclipse project and metadata files
+/.metadata/
+/.classpath
+/.project
+/.settings/
+/bin/
+/target/
+
+# Ignore compiled files and other unwanted files
+*.class
+*.jar
+*.war
+*.log
+*.tmp
+*.swp
+
